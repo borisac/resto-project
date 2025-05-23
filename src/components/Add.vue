@@ -1,13 +1,13 @@
 <template>
     <Header></Header>
-     <h1>Hello, welcome to home page</h1>
+     <h1>Hello, welcome to Add restaraunt page</h1>
 </template>
 <script>
 
 import Header from './Header.vue'
 
 export default {
-    name:'Home',
+    name:'Add',
     components:{
         Header
     },
