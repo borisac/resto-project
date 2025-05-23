@@ -1,10 +1,15 @@
 <template>
-    <h1>Hello, welcome to home page</h1>
+    <Header></Header>
 </template>
 <script>
+
+import Header from './Header.vue'
+
 export default {
     name:'Home',
-
+    components:{
+        Header
+    },
      mounted(){
          let user= localStorage.getItem('user-info');
          if(!user){
