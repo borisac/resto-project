@@ -99,5 +99,25 @@
       "email": "pita@test",
       "password": "burek123"
     }
+  ],
+  "restaurants":[
+    {
+      "id":1,
+      "name":"Burger king",
+      "contact":1111,
+      "adress": "noida sector 50"
+    },
+      {
+      "id":2,
+      "name":"Coffe dream",
+      "contact":18911,
+      "adress": "bulevar 50"
+    },
+   {
+      "id":3,
+      "name":"kfc",
+      "contact":1121,
+      "adress": "terazije 50"
+    }
   ]
 }
