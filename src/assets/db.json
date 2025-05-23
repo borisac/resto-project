@@ -86,6 +86,12 @@
       "name": "petar",
       "password": "zvoncica",
       "email": "pan@test.com"
+    },
+    {
+      "id": "de97",
+      "name": "petar ",
+      "password": "zvoncica",
+      "email": "pan@test.com"
     }
   ]
 }

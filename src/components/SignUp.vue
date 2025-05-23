@@ -41,14 +41,20 @@ export default{
                 this.$router.push({name:'Home'});
             }
         }
-    }
+    },
+    mounted(){
+         let user= localStorage.getItem('user-info');
+         if(user){
+            this.$router.push({name:'Home'});
+         }
+    },
 
 }
 </script>
 
 <style>
 .logo{
-    width: 100px;
+    width: 200px;
 }
 
 .register input{
