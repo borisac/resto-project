@@ -74,6 +74,18 @@
       "name": "Bruce",
       "password": "jim",
       "email": "Allmigthy@test.com"
+    },
+    {
+      "id": "18fa",
+      "name": "petar",
+      "password": "zvoncica",
+      "email": "pan@test.com"
+    },
+    {
+      "id": "eaf9",
+      "name": "petar",
+      "password": "zvoncica",
+      "email": "pan@test.com"
     }
   ]
 }
