@@ -92,6 +92,12 @@
       "name": "petar ",
       "password": "zvoncica",
       "email": "pan@test.com"
+    },
+    {
+      "id": "900b",
+      "name": "piter",
+      "email": "pita@test",
+      "password": "burek123"
     }
   ]
 }
