@@ -50,5 +50,30 @@
       "email": "pita@test",
       "password": "burek123"
     }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@test",
+      "password": "abc123"
+    },
+    {
+      "id": "e487",
+      "name": "piter",
+      "email": "pita@test",
+      "password": "burek123"
+    },
+    {
+      "id": "d5c5",
+      "name": "tony",
+      "password": "moto2",
+      "email": "arbolino"
+    },
+    {
+      "id": "6e48",
+      "name": "Bruce",
+      "password": "jim",
+      "email": "Allmigthy@test.com"
+    }
   ]
 }
