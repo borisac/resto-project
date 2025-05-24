@@ -53,7 +53,7 @@ export default {
             adress: this.restaurant.adress,
         });
          console.warn("result" , result);
-        if(result.status==201){
+        if(result.status==200){
                 this.$router.push({name:'Home'});
         }
                    

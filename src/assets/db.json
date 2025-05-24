@@ -102,40 +102,28 @@
   ],
   "restaurants": [
     {
-      "id": 1,
-      "name": "Burger king",
-      "contact": 1111,
-      "adress": "noida sector 50"
-    },
-    {
-      "id": 2,
       "name": "Coffe dream",
       "contact": 18911,
-      "adress": "bulevar 50"
+      "adress": "bulevar 50",
+      "id": "2"
     },
     {
-      "id": 3,
       "name": "kfc",
       "contact": 1121,
-      "adress": "terazije 50"
+      "adress": "terazije 502",
+      "id": "3"
     },
     {
-      "id": "c90e",
-      "name": "kfc2",
-      "contact": 2221,
-      "adress": "terazije 20"
+      "name": "kfc22",
+      "contact": "22212",
+      "adress": "terazije 202",
+      "id": "c90e"
     },
     {
-      "name": "Deda Stavra i Baba",
+      "name": "Deda Stavra baba",
       "contact": "nema",
       "adress": "Surcinska",
       "id": "9500"
-    },
-    {
-      "id": "1249",
-      "name": "test",
-      "contact": "test",
-      "adress": "test"
     }
   ]
 }
