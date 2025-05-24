@@ -100,24 +100,42 @@
       "password": "burek123"
     }
   ],
-  "restaurants":[
+  "restaurants": [
     {
-      "id":1,
-      "name":"Burger king",
-      "contact":1111,
+      "id": 1,
+      "name": "Burger king",
+      "contact": 1111,
       "adress": "noida sector 50"
     },
-      {
-      "id":2,
-      "name":"Coffe dream",
-      "contact":18911,
+    {
+      "id": 2,
+      "name": "Coffe dream",
+      "contact": 18911,
       "adress": "bulevar 50"
     },
-   {
-      "id":3,
-      "name":"kfc",
-      "contact":1121,
+    {
+      "id": 3,
+      "name": "kfc",
+      "contact": 1121,
       "adress": "terazije 50"
+    },
+    {
+      "id": "c90e",
+      "name": "kfc2",
+      "contact": 2221,
+      "adress": "terazije 20"
+    },
+    {
+      "id": "9500",
+      "name": "Deda Stavra",
+      "contact": "nema",
+      "adress": "Surcinska"
+    },
+    {
+      "id": "1249",
+      "name": "test",
+      "contact": "test",
+      "adress": "test"
     }
   ]
 }
